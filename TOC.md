@@ -10,9 +10,9 @@
  - [How to Check if an Array Contains a Value in Java Efficiently?](how_to_Check_if_an_Array_Contains_a_Value_in_Java_Efficiently.md)
  - [Java Varargs Examples](java_Varargs_Examples.md)
  - [What exactly is null in Java?](what_exactly_is_null_in_Java.md)
- - []()
- - []()
- - []()
+- Common Methods
+ - [Comparable vs. Comparator in Java](comparable_vs._Comparator_in_Java.md)
+ - [Java equals() and hashCode() Contract](java_equals()_and_hashCode()_Contract.md)
  - []()
  - []()
  - []()
